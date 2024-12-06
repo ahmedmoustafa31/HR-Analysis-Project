@@ -117,7 +117,7 @@ The dataset used in this analysis can be downloaded here:
 3. The **Native Hawaiian** ethnicity group has the **highest attrition rate** at **23.1%** among all ethnicities.
 
 **Dashboard Preview**:  
-![Attrition Analysis 2](Dashboards/AttritionAnalysis2.jpg)
+![Attrition Analysis2](Dashboards/AttiritionAnalysis2.jpg)
 
 ---
 
